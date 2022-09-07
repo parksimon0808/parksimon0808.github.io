@@ -111,6 +111,7 @@ permalink: /research/:year/:title/
 pagination:
   enabled: true
 
+
 # External sources.
 # If you have blog posts published on medium.com or other exteranl sources,
 # you can display them in your blog by adding a link to the RSS feed.
@@ -175,7 +176,7 @@ plugins:
   - jekyll-feed
   - jekyll-imagemagick
   - jekyll-minifier
-  - jekyll-paginate-v2
+  - jekyll-paginate
   - jekyll/scholar
   - jekyll-sitemap
   - jekyll-target-blank
