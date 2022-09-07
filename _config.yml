@@ -109,7 +109,7 @@ permalink: /research/:year/:title/
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: false
 
 
 # External sources.
