@@ -203,13 +203,6 @@ jekyll-minifier:
 # Jekyll Archives
 # -----------------------------------------------------------------------------
 
-jekyll-archives:
-  enabled: [year] # enables year, tag and category archives (remove if you need to disable one of them).
-  layouts:
-    year: archive-year
-  permalinks:
-    year: '/research/:year/'
-
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
