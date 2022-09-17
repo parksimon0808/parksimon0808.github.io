@@ -10,13 +10,6 @@ nav_order: 4
 
 &nbsp;  
 
-# Undergraduate Course Assistant
-### Fall 2022 (TBD)
-[COS 324 - Introduction to Machine Learning](https://www.cs.princeton.edu/courses/archive/fall22/cos324/)
-
-&nbsp;  
-&nbsp;  
-
 # Lab TA
 Helped students debug their programming assignments
 
