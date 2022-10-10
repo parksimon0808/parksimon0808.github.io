@@ -21,7 +21,7 @@ I am a fourth-year undergraduate student at Princeton University expected to gra
 
 I am interested in mathematically understanding machine learning models. Some topics of my interests include: deep neural networks and model interpretability.
 
-I recently helped Professors Sanjeev Arora and Danqi Chen write the [course notes](https://parksimon0808.github.io/COS324/) on the COS 324 - Introduction to Machine Learning course.
+I recently helped Professors Sanjeev Arora and Danqi Chen write the [course notes](https://princeton-introml.github.io) on the COS 324 - Introduction to Machine Learning course.
 
 <!---
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
