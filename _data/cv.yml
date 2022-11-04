@@ -15,13 +15,14 @@
       institution: Princeton University, Princeton, NJ
       year: 2017 - 2023
       description:
-        - B.A. Candidate in Mathematics
-        - Current GPA 3.90/4.0
+        - B.A. in Mathematics, Certificates in 'Applications of Computation', 'Statistics and Machine Learning'
+        - Current GPA 3.90/4.0, Department GPA 3.97/4.0
         - title: Relevant Coursework
           contents:
-            - Mathematical Understanding of Deep Learning
+            - Mathematical Understanding of Deep Learning (graduate)
+            - Large Language Models (graduate)
             - Natural Language Processing
-            - Advanced Algorithms Design
+            - Advanced Algorithm Design (graduate)
             - Probability Theory
             - Real/Complex Analysis
             - Algebra
@@ -37,14 +38,12 @@
         - HHC RABCT 2ID
         - Translated for high-ranked officials
 
-
     - title: Visiting Student Researcher
       institution: TRUE Lab at KAIST
       year: 2019
       description:
         - Learned data analysis tools using machine learning architecture (CNN, RNN, GNN)
         - Led an individual project to analyze Seoul taxi trip data
-
 
     - title: Grader
       institution: Harvard-MIT Math Tournament
