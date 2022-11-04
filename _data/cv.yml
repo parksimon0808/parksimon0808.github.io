@@ -20,7 +20,7 @@
         - title: Relevant Coursework
           contents:
             - Mathematical Understanding of Deep Learning
-            - Large Language Models
+            - Understanding Large Language Models
             - Natural Language Processing
             - Advanced Algorithm Design
             - Probability Theory
@@ -42,8 +42,9 @@
       institution: TRUE Lab at KAIST
       year: 2019
       description:
-        - Learned data analysis tools using machine learning architecture (CNN, RNN, GNN)
-        - Led an individual project to analyze Seoul taxi trip data
+        - Learned data analysis tools using machine learning architecture
+        - Used the Python iGraph package to analyze the interconnectedness of the airplane route network in East Asia and its resiliency to adversarial attacks
+        - Designed a LSTM-based model to predict the short-term ridership in the Seoul subway system
 
     - title: Grader
       institution: Harvard-MIT Math Tournament

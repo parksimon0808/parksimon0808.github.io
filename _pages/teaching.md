@@ -10,10 +10,10 @@ nav_order: 4
 
 &nbsp;  
 
-# Current Positions
+## Current Positions
 
 ### Undergraduate Course Assistant
-Hosts Office Hours and grades assignments
+Hosts office hours and grades assignments
 
 [COS 324 - Introduction to Machine Learning](https://registrar.princeton.edu/course-offerings/course-details?term=1232&courseid=014294)
 
@@ -36,7 +36,7 @@ Hosts LaTeX training classes and consultation sessions
 &nbsp;
 &nbsp;
 
-# Past Positions
+## Past Positions
 
 ### Lab TA
 Helped students debug their programming assignments
