@@ -15,14 +15,14 @@
       institution: Princeton University, Princeton, NJ
       year: 2017 - 2023
       description:
-        - B.A. in Mathematics, Certificates in 'Applications of Computation', 'Statistics and Machine Learning'
+        - B.A. in Mathematics
         - Current GPA 3.90/4.0, Department GPA 3.97/4.0
         - title: Relevant Coursework
           contents:
-            - Mathematical Understanding of Deep Learning (graduate)
-            - Large Language Models (graduate)
+            - Mathematical Understanding of Deep Learning
+            - Large Language Models
             - Natural Language Processing
-            - Advanced Algorithm Design (graduate)
+            - Advanced Algorithm Design
             - Probability Theory
             - Real/Complex Analysis
             - Algebra
@@ -57,7 +57,6 @@
       description:
         - Debugged and operated the website for the competition
         - Reviewed the validity of the proposed problems and solutions
-
 
 - title: Awards and Recognition
   type: time_table
