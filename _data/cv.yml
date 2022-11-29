@@ -4,9 +4,9 @@
     - name: Full Name
       value: Juhyun 'Simon' Park
     - name: Programming Languages
-      value: Fluent in Java, Python / Familiar with C, R, MySQL
+      value: Fluent in Java, Python, C / Familiar with R, MySQL
     - name: Natural Languages
-      value: Korean, English, Mandarin Chinese
+      value: Native in Korean/ Fluent in English, Mandarin Chinese
 
 - title: Education
   type: time_table
@@ -17,11 +17,15 @@
       description:
         - B.A. in Mathematics
         - Current GPA 3.90/4.0, Department GPA 3.97/4.0
+        - (Leave of Absence for military service)
         - title: Relevant Coursework
           contents:
             - Mathematical Understanding of Deep Learning
             - Understanding Large Language Models
+            - Optimization for Machine learning
+            - Analysis of Big Data
             - Natural Language Processing
+            - Neural Networks: Theory and Applications
             - Advanced Algorithm Design
             - Probability Theory
             - Real/Complex Analysis
@@ -36,15 +40,13 @@
       year: 2019 - 2021
       description:
         - HHC RABCT 2ID
-        - Translated for high-ranked officials
+        - Translated for high-ranking officers
 
-    - title: Visiting Student Researcher
-      institution: TRUE Lab at KAIST
-      year: 2019
+    - title: Events Director
+      institution: Korean Students Association at Princeton
+      year: 2021
       description:
-        - Learned data analysis tools using machine learning architecture
-        - Used the Python iGraph package to analyze the interconnectedness of the airplane route network in East Asia and its resiliency to adversarial attacks
-        - Designed a LSTM-based model to predict the short-term ridership in the Seoul subway system
+        - Coordinated events that celebrate Korean culture on campus
 
     - title: Grader
       institution: Harvard-MIT Math Tournament
