@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a fourth-year undergraduate student at Princeton University expected to graduate with a concentration in Mathematics and a certificate in Applications of Computing and in Statistics and Machine Learning.
 
-I am interested in mathematically understanding machine learning models. Some topics of my interests include: deep neural networks and model interpretability.
+I am interested in mathematically understanding machine learning models. Some topics of my interests include: machine learning theory, deep learning theory, optimization, and natural language processing.
 
 I recently helped Professors Sanjeev Arora and Danqi Chen write the [course notes](https://princeton-introml.github.io) on the COS 324 - Introduction to Machine Learning course.
 
