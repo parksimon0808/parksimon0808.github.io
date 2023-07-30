@@ -12,46 +12,41 @@ nav_order: 4
 
 ## Current Positions
 
-### Undergraduate Course Assistant
-Hosts office hours and grades assignments
-
-[COS 324 - Introduction to Machine Learning](https://registrar.princeton.edu/course-offerings/course-details?term=1232&courseid=014294)
-
-&nbsp;
-
-### Lab TA
-Helps students debug their programming assignments
-
-[COS 226 - Algorithms and Data Structures](https://cos226.com)
-
-[COS 217 - Introduction to Programming Systems](https://www.cs.princeton.edu/courses/archive/fall22/cos217/)
-
-&nbsp;
-
-### LaTeX Trainer
-Hosts LaTeX training classes and consultation sessions
-
-[Princeton University Engineering Library](https://libcal.princeton.edu/event/9850797)
+### TBD
 
 &nbsp;
 &nbsp;
 
 ## Past Positions
 
+### Undergraduate Course Assistant
+Hosts office hours and grades assignments
+
+[(S2023) COS 484 - Natural Language Processing](https://princeton-nlp.github.io/cos484/)
+
+[(S2023, F2022) COS 324 - Introduction to Machine Learning](https://registrar.princeton.edu/course-offerings/course-details?term=1232&courseid=014294)
+
+&nbsp;
+
 ### Lab TA
-Helped students debug their programming assignments
+Helps students debug their programming assignments
 
-[(Spring 2022) COS 226 - Algorithms and Data Structures](https://www.cs.princeton.edu/courses/archive/spring22/cos226/)
+[(F2022, S2022) COS 226 - Algorithms and Data Structures](https://docs.google.com/document/d/1It_KZIr-dfytw9BlN45szZTQNxYN1k3mvTqmNkN978g/edit?pli=1)
 
-[(Spring 2022) COS 217 - Introduction to Programming Systems](https://www.cs.princeton.edu/courses/archive/spring22/cos217/)
+[(F2022, S2022) COS 217 - Introduction to Programming Systems](https://www.cs.princeton.edu/courses/archive/fall22/cos217/)
 
 &nbsp;
 
 ### Grader
 Graded and provided feedback on student assignments
 
-[(Fall 2021) COS 226 - Algorithms and Data Structures](https://www.cs.princeton.edu/courses/archive/fall21/cos226/)
+[(F2021, S2019) COS 226 - Algorithms and Data Structures](https://www.cs.princeton.edu/courses/archive/fall21/cos226/)
 
-[(Spring 2019) COS 226 - Algorithms and Data Structures](https://www.cs.princeton.edu/courses/archive/spring19/cos226/)
+[(F2018) COS 126 - Computer Science: An Interdisciplinary Approach](https://www.cs.princeton.edu/courses/archive/fall18/cos126/)
 
-[(Fall 2018) COS 126 - Computer Science: An Interdisciplinary Approach](https://www.cs.princeton.edu/courses/archive/fall18/cos126/)
+&nbsp;
+
+### LaTeX Trainer
+Hosts LaTeX training classes and consultation sessions
+
+[(S2023, F2022) Princeton University Engineering Library](https://libcal.princeton.edu/event/9850797)
