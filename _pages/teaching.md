@@ -20,7 +20,7 @@ nav_order: 4
 ## Past Positions
 
 ### Undergraduate Course Assistant
-Hosts office hours and grades assignments
+Hosted office hours and grades assignments
 
 [(S2023) COS 484 - Natural Language Processing](https://princeton-nlp.github.io/cos484/)
 
@@ -29,7 +29,7 @@ Hosts office hours and grades assignments
 &nbsp;
 
 ### Lab TA
-Helps students debug their programming assignments
+Helped students debug their programming assignments
 
 [(F2022, S2022) COS 226 - Algorithms and Data Structures](https://docs.google.com/document/d/1It_KZIr-dfytw9BlN45szZTQNxYN1k3mvTqmNkN978g/edit?pli=1)
 
@@ -47,6 +47,6 @@ Graded and provided feedback on student assignments
 &nbsp;
 
 ### LaTeX Trainer
-Hosts LaTeX training classes and consultation sessions
+Hosted LaTeX training classes and consultation sessions
 
 [(S2023, F2022) Princeton University Engineering Library](https://libcal.princeton.edu/event/9850797)
