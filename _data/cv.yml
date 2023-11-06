@@ -11,37 +11,32 @@
 - title: Education
   type: time_table
   contents:
-    - title: Undergraduate Student
+    - title: M.S.E. in Computer Science
+      institution: Princeton University, Princeton, NJ
+      year: Current
+      description:
+        - Adviser: Sanjeev Arora
+    - title: B.A. in Mathematics
       institution: Princeton University, Princeton, NJ
       year: 2017 - 2023
       description:
-        - B.A. in Mathematics
-        - Current GPA 3.90/4.0, Department GPA 3.97/4.0
-        - (Leave of Absence for military service)
-        - title: Relevant Coursework
-          contents:
-            - Mathematical Understanding of Deep Learning
-            - Understanding Large Language Models
-            - Optimization for Machine learning
-            - Analysis of Big Data
-            - Natural Language Processing
-            - Neural Networks&#58 Theory and Applications
-            - Advanced Algorithm Design
-            - Probability Theory
-            - Real/Complex Analysis
-            - Algebra
-            - Game Theory
+        - Graduate Cum Laude
+
+
+- title: Awards and Recognition
+  type: time_table
+  contents:
+    - year: 2023
+      items:
+        - Outstanding Student Teaching Award
+    - year: 2019
+      items:
+        - Shapiro Prize for Academic Excellence (Top 3% of Class)
+
 
 - title: Experience and Activities
   type: time_table
   contents:
-    - title: Army Sergeant
-      institution: Korean Augmentation to the US Army
-      year: 2019 - 2021
-      description:
-        - HHC RABCT 2ID
-        - Translated for high-ranking officers
-
     - title: Events Director
       institution: Korean Students Association at Princeton
       year: 2021
@@ -61,20 +56,9 @@
         - Debugged and operated the website for the competition
         - Reviewed the validity of the proposed problems and solutions
 
-- title: Awards and Recognition
-  type: time_table
-  contents:
-    - year: 2019
-      items:
-        - Shapiro Prize for Academic Excellence (Top 3% of Class)
-
-    - year: 2015
-      items:
-        - Hanseong Sonjaehan Scholarship Foundation (Top 150 in Nation)
-
 
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Soccer, Board Games, Bouldering
+    - <u>Hobbies:</u> Soccer, Board Games, Bouldering, Tennis

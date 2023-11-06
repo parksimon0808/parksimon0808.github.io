@@ -12,8 +12,8 @@ nav_order: 4
 
 ## Current Positions
 
-### TBD
-
+### Co-Head Teaching Assistant
+[COS 324 - Introduction to Machine Learning](https://www.cs.princeton.edu/courses/archive/fall23/cos324/)
 &nbsp;
 &nbsp;
 
