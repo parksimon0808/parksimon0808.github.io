@@ -196,9 +196,6 @@ collections:
     output: true
     date_format: "%Y-%m"
     permalink: /news/:path/
-  projects:
-    output: true
-    permalink: /projects/:path/
 
 announcements:
   enabled: true
