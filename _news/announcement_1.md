@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-05-31 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Graduate Cum Laude from Princeton with a Bachelor's degree in Mathematics.
