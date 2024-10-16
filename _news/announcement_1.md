@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Graduate Cum Laude from Princeton with a Bachelor's degree in Mathematics.
+Graduated Cum Laude from Princeton with a Bachelor's degree in Mathematics.
