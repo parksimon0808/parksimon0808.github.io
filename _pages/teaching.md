@@ -25,7 +25,7 @@ COS 324 - Introduction to Machine Learning: Head TA
 
 ### Spring 2023
 [COS 484 - Natural Language Processing](https://princeton-nlp.github.io/cos484/): Undergraduate TA
-&nbsp;
+&nbsp; \
 
 COS 324 - Introduction to Machine Learning: Undergraduate TA
 &nbsp;
@@ -35,20 +35,20 @@ LaTeX Trainer
 
 ### Fall 2022
 COS 324 - Introduction to Machine Learning: Undergraduate TA
-&nbsp;
+&nbsp; \
 
 COS 226 - Algorithms and Data Structures: Lab TA
-&nbsp;
+&nbsp; \
 
 COS 217 - Introduction to Programming Systems: Lab TA
-&nbsp;
+&nbsp; \
 
 LaTeX Trainer
 &nbsp;
 
 ### Spring 2022
 COS 226 - Algorithms and Data Structures: Lab TA
-&nbsp;
+&nbsp; \
 
 COS 217 - Introduction to Programming Systems: Lab TA
 &nbsp;
