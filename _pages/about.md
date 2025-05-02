@@ -15,4 +15,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a second-year masters student in the Department of Computer Science at Princeton University, being advised by Prof. Sanjeev Arora. Previously, I graduated with a Bachelor of Arts in Mathematics at Princeton University.
+I am an incoming Ph.D. student in the Department of Computer Science at Princeton University. Previously I recevied M.S.E. in Computer Science (advised by Prof. Sanjeev Arora) and B.A. in Mathematics.
