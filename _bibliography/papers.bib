@@ -1,4 +1,16 @@
-#### 2024
+#### 2025
+@article{parkkaur2025RLskillcomposition,
+  title={How Does RL Post-training Induce Skill Composition? A Case Study on Countdown}, 
+  author={Simon Park* and Simran Kaur* and Sanjeev Arora},
+  year={2025},
+  journal      = {Efficient Reasoning Workshop at NeurIPS 2025 (Spotlight))},
+  selected     = {true},
+	preview		 = {countdown_rl.png},
+  arxiv = {2512.01775},
+  abstract = {While reinforcement learning (RL) successfully enhances reasoning in large language models, its role in fostering compositional generalization (the ability to synthesize novel skills from known components) is often conflated with mere length generalization. To this end, we study what RL post-training teaches about skill composition and how the structure of the composition affects the skill transfer. We focus on the Countdown task (given n numbers and a target, form an expression that evaluates to the target) and analyze model solutions as expression trees, where each subtree corresponds to a reusable subtask and thus can be viewed as a ``skill.'' Tracking tree shapes and their success rates over training, we find: (i) out-of-distribution (OOD) generalization to larger n and to unseen tree shapes, indicating compositional reuse of subtasks; (ii) a structure-dependent hierarchy of learnability -- models master shallow balanced trees (workload is balanced between subtasks) before deep unbalanced ones, with persistent fragility on right-heavy structures (even when the composition depth is the same as some left-heavy structures). Our diagnostic reveals what is learned, in what order, and where generalization fails, clarifying how RL-only post-training induces OOD generalization beyond what standard metrics such as pass@k reveal.},
+  website = {https://github.com/princeton-pli/RL-skill-comp}
+}
+
 @article{park2025generalizingsimplehardvisual,
   title={Generalizing from SIMPLE to HARD Visual Reasoning: Can We Mitigate Modality Imbalance in VLMs?}, 
   author={Simon Park* and Abhishek Panigrahi* and Yun Cheng* and Dingli Yu and Anirudh Goyal and Sanjeev Arora},
