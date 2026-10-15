@@ -1,4 +1,16 @@
 #### 2026
+@article{ortega2026theoremproversneedtheoremproving,
+  title={Do Theorem Provers Need Theorem-Proving Agents? mini-Lean-agent: A Coding-Agent Baseline for Lean},
+  author={Tomas Ortega and Simon Park and Ayush Khaitan and Liam Fowl and Alex Kontorovich and Sanjeev Arora},
+  year={2026},
+  journal      = {Math-AI Workshop at NeurIPS 2026},
+  selected     = {true},
+	preview		 = {mini_lean_agent.png},
+  arxiv = {2610.17331},
+  abstract = {General-purpose coding agents use standard shell and file interactions, yet formal theorem-proving agents often rely on specialized, ad-hoc tooling. This makes it difficult to determine which components of theorem-proving agents provide benchmark gains: an improved base model, a specialized harness, a specific tool, or a combination of any of them. We introduce mini-Lean-agent, a deliberately minimal agent for Lean tasks whose only model-visible tool is bash. The model must use bash to inspect and edit the repository, search local libraries, invoke Lean, and manage its own intermediate work, while a separate trusted evaluator verifies the final artifact. We compare mini-Lean-agent against AxProverBase and Numina-Lean-Agent on the Putnam 2025 benchmark. Experiments with Gemini 3.8 Flash as the base model show that mini-Lean-agent solves 7/12 problems at $2 per problem limit, compared with AxProverBase's 4/12. With Astra as the base model, mini-Lean-agent solves 12/12 problems at an average cost of $1.28 per problem. This suggests that a generic coding agent with a minimal harness can already achieve strong performance on Lean benchmarks. Our results motivate using mini-Lean-agent as a standard baseline when evaluating theorem-proving infrastructure.},
+  url={https://arxiv.org/abs/2610.17331}
+}
+
 @article{chung2026goedelarchitect,
   title={Goedel-Architect: Streamlining Formal Theorem Proving with Blueprint Generation and Refinement},
   author={Jui-Hui Chung and Ziyang Cai and Zihao Li and Qishuo Yin and Rohit Agarwal and Simon Park and Rodrigo Porto and Narutatsu Ri and Ziran Yang and Shange Tang and Xingyu Dang and Hongzhou Lin and Mengdi Wang and Danqi Chen and Chi Jin and Liam H Fowl and Sanjeev Arora},
