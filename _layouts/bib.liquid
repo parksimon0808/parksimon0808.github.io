@@ -176,6 +176,20 @@
     <div class="periodical">
       {{ periodical | strip }}
     </div>
+    {% comment %}
+      Additional venues (e.g., workshops that preceded the main conference), one per line below the main venue.
+      In papers.bib: other_venues = {Workshop A at NeurIPS 2024 (Oral) | Workshop B at ICML 2025}
+      Separate multiple venues with "|"; they are shown in the order written.
+    {% endcomment %}
+    {% if entry.other_venues %}
+      {% assign other_venues = entry.other_venues | split: '|' %}
+      {% for other_venue in other_venues %}
+        {% assign other_venue_text = other_venue | strip %}
+        {% if other_venue_text != '' %}
+          <div class="periodical"><em>{{ other_venue_text }}</em></div>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
     <div class="periodical">
       {{ entry.note | strip }}
     </div>
